@@ -3,7 +3,7 @@
 % input quantum channel Choi matrix JN bipartite dimension [da db] hierarchy level l
 % Writte by Kun Fang
 
-function t = biMaxRenyiRainsThetaInfo(JN,d,l)
+function t = biMaximalRenyiRainsThetaInfo(JN,d,l)
 
 dap = d(1);
 dbp = d(2);
