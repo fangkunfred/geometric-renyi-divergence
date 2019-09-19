@@ -12,7 +12,7 @@ CVXQUAD(https://github.com/hfawzi/cvxquad)
 
 ## QCapacity_Bounds
 1. **HolevoWernerBound:** Computing the Holevo-Werner bound [[FF19, Equation 65]](https://arxiv.org/abs/1909.05758)
-2. MaximalRenyiRainsInfo
+2. **MaximalRenyiRainsInfo** Computing the geometric/maximal Rényi
 3. MaximalRenyiRainsThetaInfo
 4. MaxRainsInfo
 5. RainsInfoCovariant
