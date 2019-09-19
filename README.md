@@ -20,7 +20,7 @@ CVXQUAD(https://github.com/hfawzi/cvxquad)
 7. **biHolevoWernerbound:** Computing the Holevo-Werner bound of a bidirectional channel [[FF19, Equation 89]](https://arxiv.org/abs/1909.05758)
 8. **biMaxRainsInfo:** Computing the max-Rains information of a bidirectional channel [[FF19, Equation 87]](https://arxiv.org/abs/1909.05758)
 9. **biMaxRainsThetaInfo:** Computing the max-Rains Theta-information of a bidirectional channel [[FF19, Equation 91]](https://arxiv.org/abs/1909.05758)
-10. **biMaxRenyiRainsThetaInfo:** Computing the geometric/maximal Rényi Theta-information of a bidirectional channel [[FF19, Equation 97]](https://arxiv.org/abs/1909.05758)
+10. **biMaximalRenyiRainsThetaInfo:** Computing the geometric/maximal Rényi Theta-information of a bidirectional channel [[FF19, Equation 97]](https://arxiv.org/abs/1909.05758)
 
 ## CCapacity_Bounds
 1. **CbetaBound:** Computing the Cbeta bound of a channel [[FF19, Equation 152]](https://arxiv.org/abs/1909.05758)
