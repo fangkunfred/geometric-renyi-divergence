@@ -23,8 +23,8 @@ CVXQUAD(https://github.com/hfawzi/cvxquad)
 10. **biMaximalRenyiRainsThetaInfo:** Computing the geometric/maximal Rényi Theta-information of a bidirectional channel [[FF19, Equation 97]](https://arxiv.org/abs/1909.05758)
 
 ## CCapacity_Bounds
-1. **CbetaBound:** Computing the Cbeta bound of a channel [[FF19, Equation 152]](https://arxiv.org/abs/1909.05758)
-2. **CZetaBound:** Computing the Czeta bound of a channel [[FF19, Equation 156]](https://arxiv.org/abs/1909.05758)
+1. **CBetaBound:** Computing the CBeta bound of a channel [[FF19, Equation 152]](https://arxiv.org/abs/1909.05758)
+2. **CZetaBound:** Computing the CZeta bound of a channel [[FF19, Equation 156]](https://arxiv.org/abs/1909.05758)
 3. **MaxUpsilonInfo:** Computing the max-Upsilon information of a channel [[FF19, Equation 154]](https://arxiv.org/abs/1909.05758)
 4. **MaximalRenyiUpsilonInfo:** Computing the geometric/maximal Rényi Upsilon-information of a channel [[FF19, Equation 162]](https://arxiv.org/abs/1909.05758)
 5. **UpsilonInfoCovariant:** Computing the Upsilon-information of a covariant channel [[FF19, Equation 153]](https://arxiv.org/abs/1909.05758)
