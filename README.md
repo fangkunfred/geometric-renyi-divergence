@@ -11,7 +11,7 @@ QETLAB(http://www.qetlab.com/Main_Page)
 CVXQUAD(https://github.com/hfawzi/cvxquad)
 
 ## QCapacity_Bounds
-1. HolevoWernerBound: Computing the Holevo-Werner bound [1, Equation 65](https://arxiv.org/abs/1909.05758)
+1. **HolevoWernerBound:** Computing the Holevo-Werner bound [[1, Equation 65]](https://arxiv.org/abs/1909.05758)
 2. MaximalRenyiRainsInfo
 3. MaximalRenyiRainsThetaInfo
 4. MaxRainsInfo
