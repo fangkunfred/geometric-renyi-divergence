@@ -1,6 +1,8 @@
 # Geometric Rényi Divergence and its Applications in Quantum Channel Capacities
 
-This project contains Matlab codes that supplement the results of the article **Geometric Rényi Divergence and its Applications in Quantum Channel Capacities** (https://arxiv.org/abs/1909.05758). Please contact Kun Fang at (fangfred11@gmail.com) if there is any bug in the codes :)
+This project contains Matlab codes that supplement the results of the article **Geometric Rényi Divergence and its Applications in Quantum Channel Capacities** (https://arxiv.org/abs/1909.05758). 
+
+Please contact Kun Fang at (fangfred11@gmail.com) if there is any bug in the codes :)
 
 ## Dependencies:
 
